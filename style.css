@@ -1,0 +1,11 @@
+#textBox{
+    position: absolute;
+    top: 15%;
+    margin-left: 30%;
+}
+
+#content{
+    position: absolute;
+    top: 25%;
+    margin-left: 20%;
+}
